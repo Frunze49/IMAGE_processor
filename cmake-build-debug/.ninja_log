@@ -1,0 +1,12 @@
+# ninja log v5
+26	718	6706866724072811	CMakeFiles/project.dir/GrayScale.cpp.obj	17086c8ab0bafca1
+14	723	6706866724122829	CMakeFiles/project.dir/Negative.cpp.obj	e30880e54fe319b1
+0	747	6706866724372894	CMakeFiles/project.dir/image_processor.cpp.obj	33689252895e441a
+37	816	6706866725043028	CMakeFiles/project.dir/Parser.cpp.obj	a62cbddab72dbabc
+33	870	6706866725603134	CMakeFiles/project.dir/Read_and_Write.cpp.obj	ddfaa81873ce4e76
+23	903	6706866725943210	CMakeFiles/project.dir/Crop.cpp.obj	bed7a8554882966b
+19	920	6706866726123263	CMakeFiles/project.dir/Edge.cpp.obj	82d5b642db110640
+14	648	6706869436030195	CMakeFiles/project.dir/GaussianBlur.cpp.obj	5aeb01c44e517d80
+18	770	6706869437250686	CMakeFiles/project.dir/Pointillize.cpp.obj	f8e1497189ef3370
+3	560	6706869708371928	CMakeFiles/project.dir/Sharpening.cpp.obj	124fc980acc38545
+560	788	6706869710618145	project.exe	991221ced1ced5fd
